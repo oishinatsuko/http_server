@@ -36,3 +36,5 @@ http_server
 		(hoge.html, sample/hoge.html, bigfile.htmlは用意しておく、bigfileは500Mぐらい?)
 
 6	ログを確認
+
+test
